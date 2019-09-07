@@ -1,3 +1,3 @@
 # worksample
-Railsとは何か
+## Railsとは何か
 
